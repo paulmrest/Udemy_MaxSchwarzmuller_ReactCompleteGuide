@@ -14,4 +14,4 @@ Made various improvements and changes: [Section 09 - Project Management](/Sectio
 
 ## Section 12 - Practice Project - Quiz App
 
-Built the the spec supplied by the TA, which, unfortunately, does not match the application Max builds in the section: [Section 12 - Quiz App]()
+Built the the spec supplied by the TA, which, unfortunately, does not match the application Max builds in the section: [Section 12 - Quiz App](/Section12QuizAppPracticeProject/)
