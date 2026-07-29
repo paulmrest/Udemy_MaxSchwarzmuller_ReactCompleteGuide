@@ -10,7 +10,7 @@ Built to the section's spec: [Section 05 - Investment Calculator Practice Projec
 
 ## Section 09 - Practice Project - Project Management
 
-Made various improvements and changes: [Section 09 - Project Management]()
+Made various improvements and changes: [Section 09 - Project Management](/Section09ProjectManagementPracticeProject/)
 
 ## Section 12 - Practice Project - Quiz App
 
