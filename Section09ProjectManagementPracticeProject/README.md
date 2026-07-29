@@ -202,7 +202,7 @@ and then clicking "Edit Task" updates the task:
 
 ![Finished Editing Task](/Section09ProjectManagementPracticeProject/assets/Updated07-FinishedEditingTask.png)
 
-Deleting a task works the same as in the original. There is confirmation when deleting a task.
+Deleting a task works the same as in the original. There is no confirmation when deleting a task.
 
 To simplify things, I made it so that projects can only be selected and drilled into from the home page. When working in a project, the sidebar shows the other projects, but they cannot be selected (not pictured).
 
