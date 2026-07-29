@@ -6,7 +6,7 @@ Made various improvements and changes: [Section 04 - Tic-Tac-Toe](/Section04Reac
 
 ## Section 05 - React Essentials Practice Project - Investment Calculator
 
-Built to the section's spec: [Section 05 - Investment Calculator Practice Project]()
+Built to the section's spec: [Section 05 - Investment Calculator Practice Project](/Section05ReactEssentialsPracticeProject/)
 
 ## Section 09 - Practice Project - Project Management
 
